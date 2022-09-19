@@ -1,0 +1,9 @@
+body {
+    background-color: #333;
+    color: #eee;
+    font-family: system, -apple-system, Roboto, arial, sans-serif;
+}
+#app {
+    display: grid;
+    grid-template-columns: auto 350px;;
+}

@@ -1,0 +1,16 @@
+{
+  "name": "rhythm",
+  "version": "1.0.0",
+  "main": "main.js",
+  "repository": "https://github.com/nkozyra/rhythm",
+  "author": "Nathan Kozyra <nkozyra@gmail.com>",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "^20.1.4",
+    "electron-reloader": "^1.2.3"
+  },
+  "scripts": {
+    "start": "electron ."
+  }
+}
